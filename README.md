@@ -3,7 +3,8 @@ This Project contains a Deep Learning model trained to detect facial features us
 
 Data Source: <https://www.kaggle.com/c/facial-keypoints-detection/data> 
 
-Result: 
+---
+### Result: 
 
 ***TRAINING SET*** : red dots: actual labels , blue crosses: predictions
 
